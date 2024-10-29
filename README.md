@@ -32,4 +32,4 @@ Configure um pipeline de CI/CD usando GitHub Actions para rodar automaticamente 
 
 ### Passo 1: Clone ou faça um fork do repositório
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Quost/Quost-testes-software-aula11-mi75
