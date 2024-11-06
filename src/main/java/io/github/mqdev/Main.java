@@ -64,7 +64,7 @@ public class Main {
         System.out.println("Reverso de 'hello': " + reversed);
 
         boolean isPalindrome = utils.isPalindrome("A man a plan a canal Panama");
-        System.out.println("É palíndromo (A man a plan a canal Panama): " + isPalindrome);
+        System.out.println("É palíndromo (A mandasddasd a plan a canal Panama): " + isPalindrome);
     }
 
     private static void runInventoryServiceExample() {
