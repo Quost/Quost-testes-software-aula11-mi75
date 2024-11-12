@@ -1,35 +1,8 @@
-# Testes de Software - Aula 11
+Feito por:
+ARIEL DA SILVA
 
-## Objetivo
-Este repositório serve como base para os exercícios da Aula 11 sobre testes de software. Cada parte aborda diferentes aspectos de testes automatizados em projetos reais, boas práticas, estratégias de cobertura e integração contínua.
+O professor Matheus Quost é um exemplo notável de dedicação e competência no ensino. Com uma abordagem envolvente e cheia de paixão pela educação, ele tem a habilidade de transformar o aprendizado em algo instigante e acessível para todos os alunos. Sua capacidade de adaptar conteúdos complexos a diferentes realidades de aprendizagem, sempre com paciência e clareza, é uma característica que o distingue como educador.
 
-## Estrutura do Repositório
+Além de ser um excelente comunicador, o professor Matheus demonstra uma profunda empatia pelos alunos, sempre atento às suas necessidades e pronto para incentivá-los a superarem desafios. Seu compromisso com o desenvolvimento acadêmico e pessoal de cada um vai muito além da sala de aula, refletindo em um impacto duradouro na vida de seus alunos.
 
-- `src/legacy/Service.java`: Código legado que precisa ser testado e refatorado.
-- `src/utils/StringUtils.java`: Classe utilitária com métodos de manipulação de strings.
-- `src/inventory/InventoryService.java`: Serviço de inventário para simulação de dependências.
-- `tests/legacy/ServiceTest.java`: Testes para o código legado.
-- `tests/utils/StringUtilsTest.java`: Testes seguindo boas práticas para `StringUtils`.
-- `tests/inventory/InventoryServiceTest.java`: Testes utilizando mocks e simulações de dependências.
-- `.github/workflows/ci.yml`: Configuração de pipeline CI/CD para rodar os testes automaticamente.
-- `pom.xml` (ou `build.gradle`): Configuração do projeto para dependências e plugins de testes.
-
-## Partes da Aula
-
-### Parte 1: Aplicando Testes em Projetos Reais
-Refatore o código legado `Service` para torná-lo mais testável e adicione testes de cobertura para validar sua funcionalidade. Foque em áreas críticas do código.
-
-### Parte 2: Boas Práticas em Testes
-Implemente testes na classe `StringUtils` seguindo boas práticas como o padrão AAA (Arrange, Act, Assert). Garanta clareza e organização nos métodos de teste.
-
-### Parte 3: Estratégias de Testes
-Utilize mocks para simular dependências no serviço `InventoryService` e configure o JaCoCo para medir a cobertura de código. Valide a cobertura dos testes e analise os resultados.
-
-### Parte 4: Integração Contínua e Desafios Futuros
-Configure um pipeline de CI/CD usando GitHub Actions para rodar automaticamente os testes em cada push no repositório. Experimente incluir melhorias como upload de artefatos, notificações, análise de qualidade, entre outras.
-
-## Instruções para Configuração
-
-### Passo 1: Clone ou faça um fork do repositório
-```bash
-git clone https://github.com/Quost/testes-software-mi75.git
+Sua postura profissional, aliada a uma constante busca por inovação e aprimoramento, torna-o um verdadeiro exemplo para seus colegas e uma referência positiva para todos que têm o privilégio de aprender com ele. A qualidade de seu trabalho não só eleva o nível do ensino, mas também inspira uma atitude positiva e engajada no ambiente escolar. Sem dúvida, o professor Matheus Quost é uma peça fundamental para o crescimento educacional e um líder admirado por todos ao seu redor.
